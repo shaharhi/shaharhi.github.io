@@ -1,0 +1,1083 @@
+symbol,company,exchange,date,priceRange,price,currency,shares,actions
+PE1.AX,Pengana Pvt Equity Trust,ASX,2019-01-02,-,1.25,AUD,800000000,Priced
+601615.SS,Ming Yang Smart Energy Grp,Shanghai,2019-01-02,-,4.75,CNY,27590000,Priced
+601615.SS,Ming Yang Smart Energy Grp,Shanghai,2019-01-02,-,4.75,CNY,248310000,Priced
+601615.SS,Ming Yang Smart Energy Grp,Shanghai,2019-01-02,-,-,CNY,275900000,Expected
+601615.SS,Ming Yang Smart Energy Grp,Shanghai,2019-01-02,-,-,CNY,-,Expected
+603700.SS,Ningbo Water Meter Co Ltd,Shanghai,2019-01-02,-,-,CNY,39090000,Expected
+FOOD.JK,PT Sentra Food Indonesia Tbk,Jakarta,2019-01-02,0.01 - 0.01,0.009,USD,250000000,Priced
+603739.SS,Qingdao Vland Biotech Co Ltd,Shanghai,2019-01-02,-,-,CNY,38667000,Expected
+SCV.CN,Scotch Creek Ventures Inc,Canadian Sec,2019-01-02,0.09 - 0.09,0.12,CAD,3305000,Priced
+IRX.AX,irexchange Ltd,ASX,2019-01-02,0.63 - 0.63,-,AUD,19444444,Filed
+,Bank Syariah Mandiri PT,Jakarta,2019-01-02,-,-,USD,-,Amended
+PE1.AX,Pengana Pvt Equity Trust,ASX,2019-01-02,0.89 - 0.89,-,AUD,-,Amended
+,PT Menteng Heritage Realty Tbk,Jakarta,2019-01-02,-,105,IDR,1191750000,Amended
+,Denim LA Inc,LSE,2019-01-02,-,-,GBP,-,Filed
+,PT Menteng Heritage Realty Tbk,Jakarta,2019-01-02,-,-,USD,-,Filed
+603700.SS,Ningbo Water Meter Co Ltd,Shanghai,2019-01-02,-,16.63,CNY,35181000,Amended
+,Tianjin Maoyan Weying Culture,HKSE,2019-01-02,-,-,HKD,-,Amended
+IRX.AX,irexchange Ltd,ASX,2019-01-02,0.63 - 0.63,-,-,19444444,Withdrawn
+CNTO3.SA,Grupo SBF SA,Sao Paolo,2019-01-03,-,12.5,BRL,53719009,Priced
+,PT Meta Epsi PT,Jakarta,2019-01-03,-,-,IDR,-,Expected
+1845.HK,Weigang Envi Tech Hldg Grp,HKSE,2019-01-03,0.13 - 0.13,0.88,HKD,31248000,Priced
+1845.HK,Weigang Envi Tech Hldg Grp,HKSE,2019-01-03,0.13 - 0.13,0.88,HKD,281223000,Priced
+601860.SS,Jiangsu Zijin Rural Coml Bk,Shanghai,2019-01-03,-,3.14,CNY,329481000,Priced
+,Jhp Fintech Inc,HKSE,2019-01-03,-,-,HKD,-,Filed
+,Grupo SBF SA,Sao Paolo,2019-01-03,-,-,BRL,-,Filed
+,MR D I Y Trading Sdn Bhd,Kuala Lumpur,2019-01-03,-,-,USD,-,Filed
+,Kerry Logistics Network-Thaila,Thailand,2019-01-03,-,-,USD,-,Filed
+,PT Meta Epsi PT,Jakarta,2019-01-03,-,320,IDR,625000000,Amended
+,China Railway Special Cargo,Shanghai,2019-01-03,-,-,CNY,-,Filed
+ZWIPE-.OL,Zwipe AS,Oslo,2019-01-04,2.32 - 2.32,20,NOK,6000000,Priced
+1743.HK,Zhejiang Cangnan Instr Grp Co,HKSE,2019-01-04,-,15.8,HKD,1729800,Priced
+1743.HK,Zhejiang Cangnan Instr Grp Co,HKSE,2019-01-04,-,15.8,HKD,10643067,Priced
+2360.HK,Best Mart 360 Holdings Ltd,HKSE,2019-01-04,-,-,HKD,-,Amended
+2360.HK,Best Mart 360 Holdings Ltd,HKSE,2019-01-04,-,-,HKD,-,Amended
+,PT Titan Infra Energy,Jakarta,2019-01-04,-,-,USD,-,Filed
+,AK Gold Inc,Canadian Sec,2019-01-04,0.07 - 0.07,-,CAD,3000000,Filed
+,China Tobacco Intl(Hk)Co Ltd,HKSE,2019-01-05,-,-,USD,-,Amended
+,Cellid Co Ltd,KOSDAQ,2019-01-07,22.40 - 27.78,-,KRW,249270,Priced
+,Cellid Co Ltd,KOSDAQ,2019-01-07,22.40 - 27.78,-,KRW,249270,Filed
+,Gleam Fabmat Ltd,BSE,2019-01-08,0.14 - 0.14,-,INR,2960000,Expected
+,Gleam Fabmat Ltd,BSE,2019-01-08,0.14 - 0.14,-,INR,160000,Expected
+1785.HK,Chengdu Expressway Co Ltd,HKSE,2019-01-08,-,2.2,HKD,8058000,Priced
+1785.HK,Chengdu Expressway Co Ltd,HKSE,2019-01-08,-,2.2,HKD,241942000,Priced
+1785.HK,Chengdu Expressway Co Ltd,HKSE,2019-01-08,-,2.2,HKD,150000000,Priced
+TCAN.CN,Transcanna Hldg Inc,Canadian Sec,2019-01-08,0.38 - 0.38,0.5,CAD,4400000,Priced
+2013.HK,Weimob Inc,HKSE,2019-01-08,-,-,HKD,-,Expected
+2013.HK,Weimob Inc,HKSE,2019-01-08,-,-,HKD,-,Expected
+603700.SS,Ningbo Water Meter Co Ltd,Shanghai,2019-01-08,-,-,CNY,39090000,Expected
+FOOD.JK,PT Sentra Food Indonesia Tbk,Jakarta,2019-01-08,0.01 - 0.01,0.009,USD,250000000,Priced
+1785.HK,Chengdu Expressway Co Ltd,HKSE,2019-01-08,-,-,HKD,-,Amended
+,Gleam Fabmat Ltd,BSE,2019-01-08,0.14 - 0.14,10,INR,2960000,Filed
+1785.HK,Chengdu Expressway Co Ltd,HKSE,2019-01-08,-,-,HKD,-,Amended
+,Gleam Fabmat Ltd,BSE,2019-01-08,0.14 - 0.14,10,INR,160000,Filed
+,Helenbergh China Holdings Ltd,HKSE,2019-01-08,-,-,USD,-,Amended
+1785.HK,Chengdu Expressway Co Ltd,HKSE,2019-01-08,-,-,HKD,-,Amended
+,Affin Hwang Asset Mgmt Bhd,Kuala Lumpur,2019-01-08,-,-,USD,-,Filed
+TCAN.CN,Transcanna Hldg Inc,Canadian Sec,2019-01-09,0.38 - 0.38,0.5,CAD,4400000,Priced
+601615.SS,Ming Yang Smart Energy Grp,Shanghai,2019-01-09,-,-,CNY,275900000,Expected
+601615.SS,Ming Yang Smart Energy Grp,Shanghai,2019-01-09,-,-,CNY,-,Expected
+,Asset World Corp Co Ltd,Thailand,2019-01-09,-,-,USD,-,Filed
+,Ghw International,HKSE,2019-01-09,-,-,HKD,-,Filed
+,PT Estika Tata Tiara,Jakarta,2019-01-10,-,-,USD,-,Expected
+,Uni Wall Aps Holdings Bhd,Kuala Lumpur,2019-01-10,0.04 - 0.04,-,MYR,45700000,Expected
+,Supreme Cnsld Resources Bhd,Kuala Lumpur,2019-01-10,0.12 - 0.12,-,MYR,13140000,Expected
+,Bank Syariah Mandiri PT,Jakarta,2019-01-10,-,-,USD,-,Amended
+,Pt Bersatu Sejahtera Mandiri,Jakarta,2019-01-10,-,-,USD,-,Filed
+,PT Nobel Property Kencana,Jakarta,2019-01-10,-,-,USD,-,Filed
+1876.HK,Budweiser Brewing Co APAC Ltd,HKSE,2019-01-11,-,-,HKD,-,Expected
+2360.HK,Best Mart 360 Holdings Ltd,HKSE,2019-01-11,-,1,HKD,25000000,Priced
+2885.HK,Peiport Holdings Ltd,HKSE,2019-01-11,-,1.25,HKD,80000000,Priced
+2885.HK,Peiport Holdings Ltd,HKSE,2019-01-11,-,1.25,HKD,20000000,Priced
+,K P I Global Infrastructure,BSE,2019-01-11,-,-,INR,-,Expected
+1851.HK,China Gingko Educ Grp Co Ltd,HKSE,2019-01-11,-,-,HKD,-,Amended
+1851.HK,China Gingko Educ Grp Co Ltd,HKSE,2019-01-11,-,-,HKD,-,Amended
+,Avicanna Inc,Canadian Sec,2019-01-11,7.54 - 7.54,-,CAD,540484,Filed
+ANTI.P.V,Antera Ventures I Corp,TSXV,2019-01-11,0.08 - 0.08,0.1,CAD,2000000,Amended
+,Megvii Technology Ltd,HKSE,2019-01-11,-,-,USD,-,Filed
+,Urban Commons LLC-REIT,SES,2019-01-11,-,-,USD,-,Filed
+AISA.CN,Asia Cannabis Corp,Canadian Sec,2019-01-11,0.20 - 0.20,0.25,CAD,5047000,Amended
+,Budweiser Brewing Co APAC Ltd,HKSE,2019-01-11,-,-,HKD,-,Amended
+1876.HK,Budweiser Brewing Co APAC Ltd,HKSE,2019-01-11,-,-,-,-,Withdrawn
+1876.HK,Budweiser Brewing Co APAC Ltd,HKSE,2019-01-11,-,-,-,-,Withdrawn
+600928.SS,Bank of Xi'an Co Ltd,Shanghai,2019-01-14,-,4.68,CNY,400001000,Priced
+600928.SS,Bank of Xi'an Co Ltd,Shanghai,2019-01-14,-,-,CNY,1333333300,Expected
+PSN.V,PhysiN Acq Corp Inc,TSXV,2019-01-14,0.12 - 0.12,0.15,CAD,2551600,Priced
+1767.HK,TS Wonders Holding Ltd,HKSE,2019-01-14,-,0.5,HKD,50000000,Priced
+A1G.AX,African Gold Ltd,ASX,2019-01-14,0.14 - 0.14,-,AUD,22500000,Filed
+,Onoff AG,Frankfurt,2019-01-14,-,-,EUR,-,Amended
+,Palace Banquet Holdings Ltd,HKSE,2019-01-14,-,-,HKD,-,Filed
+,Shang Gench Educ Grp Ltd,HKSE,2019-01-14,-,-,HKD,-,Filed
+,Right Of Reply Ltd,OTC BB,2019-01-14,10.00 - 10.00,-,GBP,250000,Amended
+,Grand Venture Technology Ltd,SES,2019-01-15,-,0.275,SGD,42118000,Priced
+,Grand Venture Technology Ltd,SES,2019-01-15,-,0.275,SGD,800000,Priced
+DEV.L,Dev Clever Holdings PLC,LSE,2019-01-15,0.01 - 0.01,0.01,GBP,59000000,Priced
+,Grand Venture Technology Ltd,SES,2019-01-15,-,-,SGD,-,Expected
+,Grand Venture Technology Ltd,SES,2019-01-15,-,-,SGD,-,Expected
+DEV.L,Dev Clever Holdings PLC,LSE,2019-01-15,0.01 - 0.01,0.01,GBP,10000000,Priced
+1890.HK,China Kepei Educ Grp Ltd,HKSE,2019-01-15,-,-,HKD,-,Expected
+1890.HK,China Kepei Educ Grp Ltd,HKSE,2019-01-15,-,-,HKD,-,Expected
+1890.HK,China Kepei Educ Grp Ltd,HKSE,2019-01-15,-,-,HKD,-,Expected
+2013.HK,Weimob Inc,HKSE,2019-01-15,-,2.8,HKD,160458000,Priced
+6162.HK,China Tianrui Automotive,HKSE,2019-01-15,-,0.25,HKD,220000000,Priced
+6162.HK,China Tianrui Automotive,HKSE,2019-01-15,-,0.25,HKD,50000000,Priced
+2013.HK,Weimob Inc,HKSE,2019-01-15,-,2.8,HKD,23877000,Priced
+6162.HK,China Tianrui Automotive,HKSE,2019-01-15,-,0.25,HKD,230000000,Priced
+1785.HK,Chengdu Expressway Co Ltd,HKSE,2019-01-15,-,2.2,HKD,8058000,Priced
+1785.HK,Chengdu Expressway Co Ltd,HKSE,2019-01-15,-,2.2,HKD,241942000,Priced
+1785.HK,Chengdu Expressway Co Ltd,HKSE,2019-01-15,-,2.2,HKD,150000000,Priced
+ISHE.ST,Industrial Solar Hldg Europe,SAT,2019-01-15,-,6.2,SEK,2540527,Priced
+,KEH Holdings Ltd,HKSE,2019-01-15,-,-,HKD,-,Amended
+,Home Credit BV,HKSE,2019-01-15,-,-,USD,-,Amended
+,Dev Clever Holdings PLC,LSE,2019-01-15,0.01 - 0.01,-,GBP,10000000,Filed
+,Home Credit BV,HKSE,2019-01-15,-,-,USD,-,Amended
+1769.HK,Scholar Education Group,HKSE,2019-01-16,-,3.68,HKD,112410000,Priced
+1769.HK,Scholar Education Group,HKSE,2019-01-16,-,3.68,HKD,12490000,Priced
+,Pike Mountain Minerals Inc,TSXV,2019-01-16,0.08 - 0.08,-,CAD,4000000,Filed
+,Link Global Tech Inc,Canadian Sec,2019-01-16,0.23 - 0.23,-,CAD,3333333,Filed
+,UWC Bhd,Kuala Lumpur,2019-01-16,-,-,MYR,83015000,Filed
+HG1.AX,Halu Grp Ltd,ASX,2019-01-16,0.14 - 0.14,-,AUD,2000000,Amended
+,UWC Bhd,Kuala Lumpur,2019-01-16,0.20 - 0.20,0.82,MYR,80015000,Filed
+,Tutorials Point India Ltd,BSE,2019-01-16,0.65 - 0.65,-,INR,2982000,Filed
+,China Yuanfang (Hldg) Grp,HKSE,2019-01-16,-,-,HKD,-,Filed
+,UWC Bhd,Kuala Lumpur,2019-01-16,-,-,MYR,20000000,Filed
+,Tutorials Point India Ltd,BSE,2019-01-16,0.65 - 0.65,-,INR,159000,Filed
+BRICKS.MX,Bricks Acquisition Co,Mexico,2019-01-16,10.00 - 10.00,-,USD,-,Filed
+,UWC Bhd,Kuala Lumpur,2019-01-16,0.20 - 0.20,0.82,MYR,23000000,Filed
+,WebCash Corp,KOSDAQ,2019-01-17,21.26 - 23.04,-,KRW,208400,Expected
+,Changsha Broad Homes,HKSE,2019-01-17,-,-,CNY,-,Filed
+6811.HK,Tai Hing Group Holdings Ltd,HKSE,2019-01-18,-,3,HKD,175000000,Priced
+6811.HK,Tai Hing Group Holdings Ltd,HKSE,2019-01-18,-,3,HKD,75000000,Priced
+6811.HK,Tai Hing Group Holdings Ltd,HKSE,2019-01-18,-,-,HKD,-,Expected
+,Ecopro Bm Co Ltd,KOSDAQ,2019-01-18,33.34 - 38.14,-,KRW,1320000,Priced
+CXD.P.V,Chainode Opportunities Corp,TSXV,2019-01-18,0.08 - 0.08,0.1,CAD,3000000,Priced
+1890.HK,China Kepei Educ Grp Ltd,HKSE,2019-01-18,-,-,HKD,-,Expected
+1890.HK,China Kepei Educ Grp Ltd,HKSE,2019-01-18,-,-,HKD,-,Expected
+1851.HK,China Gingko Educ Grp Co Ltd,HKSE,2019-01-18,-,1.44,HKD,12500000,Priced
+1890.HK,China Kepei Educ Grp Ltd,HKSE,2019-01-18,-,-,HKD,-,Expected
+1851.HK,China Gingko Educ Grp Co Ltd,HKSE,2019-01-18,-,1.44,HKD,112500000,Priced
+,Ecopro Bm Co Ltd,KOSDAQ,2019-01-18,33.34 - 38.14,-,KRW,1200000,Filed
+,Nanya New Material Tech Co,Shanghai,2019-01-18,-,-,CNY,58600000,Filed
+,Libby K Inds Inc,TSXV,2019-01-18,0.08 - 0.08,0.1,-,2500000,Amended
+,SK Magic Co Ltd,KSE,2019-01-18,-,-,USD,-,Filed
+,Shine Box Capital Corp,TSXV,2019-01-18,0.08 - 0.08,0.1,-,3000000,Filed
+,Antalis Ventures Corp,TSXV,2019-01-18,0.08 - 0.08,0.1,-,3000000,Filed
+,Tai Hing Group Holdings Ltd,HKSE,2019-01-18,-,-,USD,-,Amended
+NUGT.CN,Prophecy Potash Corp,Canadian Sec,2019-01-21,0.11 - 0.11,0.1,CAD,5500000,Priced
+,Ent Plus,HKSE,2019-01-21,-,-,HKD,-,Expected
+1890.HK,China Kepei Educ Grp Ltd,HKSE,2019-01-21,-,2.48,HKD,35336000,Priced
+1890.HK,China Kepei Educ Grp Ltd,HKSE,2019-01-21,-,2.48,HKD,317998000,Priced
+1890.HK,China Kepei Educ Grp Ltd,HKSE,2019-01-21,-,2.48,HKD,94232000,Priced
+DEV.L,Dev Clever Holdings PLC,LSE,2019-01-21,0.01 - 0.01,0.01,GBP,59000000,Priced
+,Grand Venture Technology Ltd,SES,2019-01-21,-,-,SGD,-,Expected
+,Grand Venture Technology Ltd,SES,2019-01-21,-,-,SGD,-,Expected
+DEV.L,Dev Clever Holdings PLC,LSE,2019-01-21,0.01 - 0.01,0.01,GBP,10000000,Priced
+600928.SS,Bank of Xi'an Co Ltd,Shanghai,2019-01-21,-,-,CNY,1333333300,Expected
+,PT Jasnita Telekomindo Tbk,Jakarta,2019-01-21,-,246,IDR,203406700,Amended
+,Prophecy Potash Corp,Canadian Sec,2019-01-21,0.11 - 0.11,-,CAD,1800000,Filed
+,Wenzhou Chengjian Group Co Ltd,HKSE,2019-01-21,-,-,CNY,-,Filed
+AAM.AX,Australian Industrial,ASX,2019-01-22,-,-,AUD,-,Expected
+CXD.P.V,Chainode Opportunities Corp,TSXV,2019-01-22,0.08 - 0.08,0.1,CAD,3000000,Priced
+,K P I Global Infrastructure,BSE,2019-01-22,-,80,INR,249600,Priced
+,K P I Global Infrastructure,BSE,2019-01-22,-,80,INR,4742400,Priced
+,Al Jazira Capital-USD,Saudi,2019-01-22,-,-,SAR,-,Filed
+2180.HK,ManpowerGroup Greater China,HKSE,2019-01-22,-,9.9,HKD,5000000,Amended
+,Manpowergrp Greater China Ltd,HKSE,2019-01-22,-,-,HKD,-,Filed
+2180.HK,ManpowerGroup Greater China,HKSE,2019-01-22,-,9.9,HKD,45000000,Amended
+,Tai Hing Group Holdings Ltd,HKSE,2019-01-22,-,-,USD,-,Amended
+NA.CN,Golden Lake Expl Inc,Canadian Sec,2019-01-23,0.07 - 0.07,0.1,CAD,3500000,Priced
+9286.JP,Enex Infrastructure Invest,Japan OTC,2019-01-23,901.00 - 901.00,-,JPY,86269,Priced
+9286.JP,Enex Infrastructure Invest,Japan OTC,2019-01-23,901.00 - 901.00,-,JPY,3731,Priced
+9286.JP,Enex Infrastructure Invest,Japan OTC,2019-01-23,901.00 - 901.00,-,JPY,3731,Expected
+9286.JP,Enex Infrastructure Invest,Japan OTC,2019-01-23,901.00 - 901.00,-,JPY,86269,Expected
+,Danacore Inds Inc,TSXV,2019-01-23,0.08 - 0.08,0.1,CAD,7500000,Priced
+,Grand Venture Technology Ltd,SES,2019-01-23,-,0.275,SGD,42118000,Priced
+,Grand Venture Technology Ltd,SES,2019-01-23,-,0.275,SGD,800000,Priced
+601615.SS,Ming Yang Smart Energy Grp,Shanghai,2019-01-23,-,4.75,CNY,27590000,Priced
+601615.SS,Ming Yang Smart Energy Grp,Shanghai,2019-01-23,-,4.75,CNY,248310000,Priced
+,Golden Lake Expl Inc,Canadian Sec,2019-01-23,0.07 - 0.07,-,CAD,3500000,Filed
+,AIM Commercial Growth Freehold,Thailand,2019-01-24,0.32 - 0.32,10,THB,288000000,Priced
+,Humming Bird Education Ltd,BSE,2019-01-24,1.86 - 1.86,-,INR,9000,Expected
+,Humming Bird Education Ltd,BSE,2019-01-24,1.86 - 1.86,-,INR,154000,Expected
+,Humming Bird Education Ltd,BSE,2019-01-24,1.86 - 1.86,132,INR,9000,Filed
+,Kmh Shilla Leisure Co Ltd,KOSDAQ,2019-01-24,7.98 - 10.20,-,KRW,440000,Filed
+,Techniplas Inc,LSE,2019-01-24,-,-,GBP,-,Filed
+,Montage Tech (Shanghai) Co,Shanghai,2019-01-24,-,-,CNY,-,Filed
+,AIM Coml Growth Freehold And,Thailand,2019-01-24,0.32 - 0.32,-,THB,-,Filed
+,Humming Bird Education Ltd,BSE,2019-01-24,1.86 - 1.86,132,INR,154000,Filed
+,Kmh Shilla Leisure Co Ltd,KOSDAQ,2019-01-24,7.98 - 10.20,-,-,440000,Withdrawn
+NA.V,Kepler Acq Corp,TSXV,2019-01-25,0.08 - 0.08,0.1,CAD,2000000,Priced
+,Yuanta SPAC 4,KOSDAQ,2019-01-25,1.79 - 1.79,-,KRW,820000,Priced
+2971.JP,ESCON JAPAN REIT Investment Co,Japan OTC,2019-01-25,952.25 - 952.25,-,JPY,9189,Priced
+2971.JP,ESCON JAPAN REIT Investment Co,Japan OTC,2019-01-25,952.25 - 952.25,-,JPY,179162,Priced
+1890.HK,China Kepei Educ Grp Ltd,HKSE,2019-01-25,-,2.48,HKD,35336000,Priced
+1890.HK,China Kepei Educ Grp Ltd,HKSE,2019-01-25,-,2.48,HKD,317998000,Priced
+,Danacore Inds Inc,TSXV,2019-01-25,0.08 - 0.08,0.1,CAD,7500000,Priced
+1890.HK,China Kepei Educ Grp Ltd,HKSE,2019-01-25,-,2.48,HKD,94232000,Priced
+,Webcash Corp,KOSDAQ,2019-01-25,21.26 - 23.04,-,KRW,208400,Priced
+,Yuanta SPAC 4,KOSDAQ,2019-01-25,1.77 - 1.77,-,KRW,820000,Filed
+NA.V,Hanstone Capital Corp,TSXV,2019-01-28,0.01 - 0.01,0.01,CAD,3000000,Priced
+603956.SS,WPG Shanghai Smart Water,Shanghai,2019-01-28,-,5.7,CNY,38337000,Priced
+1896.HK,Maoyan Entertainment,HKSE,2019-01-28,-,14.8,HKD,13237800,Priced
+1896.HK,Maoyan Entertainment,HKSE,2019-01-28,-,14.8,HKD,103232000,Priced
+1896.HK,Maoyan Entertainment,HKSE,2019-01-28,-,14.8,HKD,15907200,Priced
+603956.SS,Wpg Shanghai Smart Water,Shanghai,2019-01-28,-,-,CNY,42596100,Expected
+OBOR.L,Starcrest Educ The Belt & Road,LSE,2019-01-28,0.26 - 0.26,0.2,GBP,20760000,Priced
+ZWIPE-.OL,Zwipe AS,Oslo,2019-01-28,2.32 - 2.32,20,NOK,6000000,Priced
+,Feiyang Intl Hldg Grp Ltd,HKSE,2019-01-28,-,-,HKD,-,Filed
+1901.HK,Feiyang Intl Hldg Grp Ltd,HKSE,2019-01-28,-,1.05,HKD,49410000,Amended
+1901.HK,Feiyang Intl Hldg Grp Ltd,HKSE,2019-01-28,-,1.05,HKD,37500000,Amended
+1901.HK,Feiyang Intl Hldg Grp Ltd,HKSE,2019-01-28,-,1.05,HKD,38090000,Amended
+,Hanstone Capital Corp,TSXV,2019-01-28,0.01 - 0.01,0.01,-,3000000,Filed
+,Port of Napier Ltd,NZSE,2019-01-28,-,-,NZD,181000000,Amended
+,SMC Electric Ltd,HKSE,2019-01-28,-,-,HKD,-,Filed
+,Kelfred Hldg Ltd,HKSE,2019-01-29,-,-,HKD,-,Expected
+,Hyundai Autoever Corp,KSE,2019-01-29,-,-,KRW,1404000,Priced
+,Dreamtech Co Ltd,KSE,2019-01-29,9.85 - 11.63,-,KRW,973080,Priced
+,Dreamtech Co Ltd,KSE,2019-01-29,9.85 - 11.63,-,KRW,1459620,Priced
+1887.JP,JDC Corp,Japan OTC,2019-01-29,4.57 - 4.57,-,JPY,12110400,Expected
+1887.JP,JDC Corp,Japan OTC,2019-01-29,4.57 - 4.57,-,JPY,1345600,Expected
+AFC.V,Af1 Capital Corp,TSXV,2019-01-29,0.08 - 0.08,0.1,CAD,3000000,Priced
+ANDAU,ANDINA ACQUISITION CORP. III,NasdaqCM,2019-01-29,10.00 - 10.00,-,USD,-,Expected
+SPT.AX,Splitit Payments Ltd,ASX,2019-01-29,0.14 - 0.14,0.2,AUD,50000000,Priced
+,Huali University Group Ltd,HKSE,2019-01-29,-,-,USD,-,Amended
+,Platt Nera International Ltd,HKSE,2019-01-29,-,-,THB,-,Filed
+,Kelfred Hldg Ltd,HKSE,2019-01-29,-,-,HKD,-,Filed
+,Dreamtech Co Ltd,KSE,2019-01-29,9.85 - 11.63,-,KRW,973080,Filed
+,Bionexus Gene Lab Corp,OTC BB,2019-01-29,0.05 - 0.05,-,USD,10398779,Filed
+1134.HK,Kelfred Hldg Ltd,HKSE,2019-01-29,-,1,HKD,100000000,Amended
+,Ktb Securities Thailand Co Ltd,Thailand,2019-01-29,-,-,THB,-,Amended
+1134.HK,Kelfred Hldg Ltd,HKSE,2019-01-29,-,1,HKD,25000000,Amended
+,Hyundai Autoever Corp,KSE,2019-01-29,-,-,KRW,-,Amended
+,Dreamtech Co Ltd,KSE,2019-01-29,9.85 - 11.63,-,KRW,1459620,Filed
+6805.HK,Kimou Envi Hldg Ltd,HKSE,2019-01-30,-,-,HKD,-,Expected
+NA.V,Buckhaven Capital Corp,TSXV,2019-01-30,0.11 - 0.11,0.15,CAD,2150000,Priced
+,Mirae Asset Venture Invest Co,KOSDAQ,2019-01-30,3.33 - 4.05,-,KRW,1100000,Priced
+1793.HK,Wecon Holdings Ltd,HKSE,2019-01-30,-,0.625,HKD,60000000,Priced
+,Yellow Balloon Tour Co Ltd,KOSDAQ,2019-01-30,13.81 - 16.93,-,KRW,330000,Priced
+,Ritco Logistics Ltd,BSE,2019-01-30,1.03 - 1.06,-,INR,334400,Filed
+,Ritco Logistics Ltd,BSE,2019-01-30,1.03 - 1.06,-,INR,6265600,Filed
+6805.HK,Kimou Envi Hldg Ltd,HKSE,2019-01-30,-,1.33,HKD,252000000,Amended
+6805.HK,Kimou Envi Hldg Ltd,HKSE,2019-01-30,-,1.33,HKD,28000000,Amended
+,MLC Ltd,ASX,2019-01-30,-,-,AUD,-,Filed
+1793.HK,Wecon Holdings Ltd,HKSE,2019-01-30,-,-,HKD,-,Amended
+,Buckhaven Capital Corp,TSXV,2019-01-30,0.11 - 0.11,0.15,-,2150000,Filed
+1793.HK,Wecon Holdings Ltd,HKSE,2019-01-30,-,-,HKD,-,Amended
+,Funds2Grow Ltd,ASX,2019-01-30,-,-,AUD,-,Filed
+,Kimou Envi Hldg Ltd,HKSE,2019-01-30,-,-,HKD,-,Filed
+6117.HK,Rizhao Port Jurong Co Ltd,HKSE,2019-02-01,-,1.5,HKD,9528000,Priced
+6117.HK,Rizhao Port Jurong Co Ltd,HKSE,2019-02-01,-,1.5,HKD,190482000,Priced
+6117.HK,Rizhao Port Jurong Co Ltd,HKSE,2019-02-01,-,1.5,HKD,199990000,Priced
+9286.JP,Enex Infrastructure Invest,Japan OTC,2019-02-01,901.00 - 901.00,-,JPY,3731,Expected
+9286.JP,Enex Infrastructure Invest,Japan OTC,2019-02-01,901.00 - 901.00,-,JPY,86269,Expected
+,Innotherapy Inc,KOSDAQ,2019-02-01,17.94 - 22.38,-,KRW,100000,Priced
+PVT'U,PIVOTAL ACQUISITION CORP,NYSE,2019-02-01,10.00 - 10.00,-,USD,-,Expected
+GMHIU,"GORES METROPOULOS, INC.",NasdaqCM,2019-02-01,10.00 - 10.00,-,USD,-,Expected
+603956.SS,Wpg Shanghai Smart Water,Shanghai,2019-02-01,-,-,CNY,42596100,Expected
+,Arizon RFID Technology,Shanghai,2019-02-01,-,-,CNY,-,Filed
+0382.HK,Edvantage Group Holdings Ltd,HKSE,2019-02-01,-,2.85,HKD,151728000,Amended
+0382.HK,Edvantage Group Holdings Ltd,HKSE,2019-02-01,-,2.85,HKD,25000000,Amended
+,Edvantage Group Holdings Ltd,HKSE,2019-02-01,-,-,USD,-,Filed
+,Yincheng Intl Hldg Co. Ltd.,HKSE,2019-02-01,-,-,USD,-,Amended
+,Kuke Music Holding Ltd,HKSE,2019-02-01,-,-,USD,-,Amended
+0382.HK,Edvantage Group Holdings Ltd,HKSE,2019-02-01,-,2.85,HKD,73272000,Amended
+,Rizhao Port Jurong Co Ltd,HKSE,2019-02-01,-,-,HKD,-,Amended
+,Kranti Industries Ltd,BSE,2019-02-04,0.18 - 0.18,-,INR,2460000,Expected
+,Kranti Industries Ltd,BSE,2019-02-04,0.18 - 0.18,-,INR,-,Expected
+1896.HK,Maoyan Entertainment,HKSE,2019-02-04,-,14.8,HKD,13237800,Priced
+1896.HK,Maoyan Entertainment,HKSE,2019-02-04,-,14.8,HKD,15907200,Priced
+1896.HK,Maoyan Entertainment,HKSE,2019-02-04,-,14.8,HKD,103232000,Priced
+,Q P Group Holdings Ltd,HKSE,2019-02-04,-,-,HKD,-,Filed
+,Education Centre Of Australia,ASX,2019-02-04,-,-,AUD,-,Filed
+,Tenlot Grp Ltd,Stockholm,2019-02-04,-,-,GBP,-,Filed
+,Tbk & Sons Holdings Ltd,HKSE,2019-02-04,-,-,HKD,-,Filed
+,Kranti Industries Ltd,BSE,2019-02-04,0.18 - 0.18,37,INR,2202000,Amended
+,Panorama Capital Corp,TSXV,2019-02-04,0.08 - 0.08,-,CAD,2500000,Filed
+PANO.P.V,Panorama Capital Corp,TSXV,2019-02-04,0.08 - 0.08,0.1,CAD,5000000,Amended
+,Kranti Industries Ltd,BSE,2019-02-04,0.18 - 0.18,37,INR,117000,Amended
+,Ashapuri Gold Ornament Ltd,BSE,2019-02-06,0.71 - 0.71,51,INR,298000,Priced
+,Ashapuri Gold Ornament Ltd,BSE,2019-02-06,0.71 - 0.71,51,INR,5452000,Priced
+LSPD.V,Lightspeed POS Inc,TSXV,2019-02-06,-,16,CAD,15000000,Priced
+HHHHU,WEALTHBRIDGE ACQUISITION LTD,NasdaqCM,2019-02-06,10.00 - 10.00,-,USD,-,Expected
+LSPD.V,Lightspeed POS Inc,TSXV,2019-02-06,-,-,CAD,-,Filed
+,Absolute Clean Energy PCL,Thailand,2019-02-06,-,-,THB,-,Amended
+,Inter Med Care And Lab PCL,Thailand,2019-02-06,-,-,THB,-,Amended
+,Invesus Finl Svcs Grp,ASX,2019-02-06,-,-,AUD,-,Amended
+2972.JP,Sankei Real Estate Inc,Japan OTC,2019-02-07,910.70 - 910.70,-,JPY,216876,Priced
+2972.JP,Sankei Real Estate Inc,Japan OTC,2019-02-07,910.70 - 910.70,-,JPY,10362,Priced
+2972.JP,Sankei Real Estate Inc,Japan OTC,2019-02-07,910.70 - 910.70,-,JPY,10362,Expected
+2972.JP,Sankei Real Estate Inc,Japan OTC,2019-02-07,910.70 - 910.70,-,JPY,216876,Expected
+ALEC,"ALECTOR, INC.",NasdaqGS,2019-02-07,18.00 - 20.00,-,USD,-,Expected
+MNCLU,MONOCLE ACQUISITION CORP,NasdaqCM,2019-02-07,10.00 - 10.00,-,USD,-,Expected
+,Pinehurst Capital Ii Inc,TSXV,2019-02-07,0.08 - 0.08,0.1,-,3000000,Amended
+,PT Bliss Properti Indonesia,Jakarta,2019-02-07,-,150,IDR,1700000000,Amended
+CEBI.V,Ce Brands Inc,TSXV,2019-02-08,0.08 - 0.08,0.1,CAD,5000000,Priced
+AAM.AX,Australian Industrial,ASX,2019-02-08,-,-,AUD,-,Expected
+SEQUA.BR,Sequana Medical NV,Brussels,2019-02-08,9.73 - 10.30,8.5,EUR,3235294,Priced
+RMG'U,RMG ACQUISITION CORP.,NYSE,2019-02-08,10.00 - 10.00,-,USD,-,Expected
+GOSS,"GOSSAMER BIO, INC.",NasdaqGS,2019-02-08,16.00 - 16.00,-,USD,-,Expected
+HARP,"HARPOON THERAPEUTICS, INC.",NasdaqGS,2019-02-08,13.00 - 15.00,-,USD,-,Expected
+1703.HK,Palace Banquet Holdings Ltd,HKSE,2019-02-08,-,-,HKD,-,Amended
+KOL.AX,Koligo Therapeutics Ltd,ASX,2019-02-08,0.14 - 0.14,-,AUD,30000000,Filed
+,Ce Brands Inc,TSXV,2019-02-08,0.08 - 0.08,-,-,2000000,Filed
+,Sunny New Energy Holdings Ltd,HKSE,2019-02-08,-,-,USD,-,Filed
+AN1.AX,Australian Nutrition & Sports,ASX,2019-02-08,0.14 - 0.14,-,AUD,40000000,Filed
+,Hong Kong Johnson Hldg Co Ltd,HKSE,2019-02-08,-,-,HKD,-,Filed
+KOL.AX,Koligo Therapeutics Ltd,ASX,2019-02-08,0.14 - 0.14,-,-,30000000,Withdrawn
+,Ecofibre Ltd,ASX,2019-02-11,0.71 - 0.71,1,AUD,20000000,Priced
+,Cansortium Inc,Canadian Sec,2019-02-11,2.00 - 2.30,2,USD,1552899,Priced
+,ezCaretech,KOSDAQ,2019-02-11,8.98 - 10.93,-,KRW,410000,Priced
+,Cansortium Inc,Canadian Sec,2019-02-11,2.00 - 2.30,2,USD,26000000,Priced
+,Zen Corp Group PCL,Thailand,2019-02-11,0.40 - 0.40,-,THB,75000000,Expected
+SEQUA.BR,Sequana Medical NV,Brussels,2019-02-11,9.73 - 10.30,8.5,EUR,3235294,Priced
+,Ecofibre Ltd,ASX,2019-02-11,0.71 - 0.71,-,AUD,15000000,Amended
+,PT Bali Bintang Sejahtera,Jakarta,2019-02-11,-,175,IDR,2000000000,Amended
+,PT Bali Bintang Sejahtera,Jakarta,2019-02-11,-,-,IDR,-,Filed
+,Golden Bridge United Finl,HKSE,2019-02-11,-,-,HKD,-,Filed
+,ezCaretech,KOSDAQ,2019-02-11,8.98 - 10.93,-,KRW,410000,Filed
+,Cansortium Inc,Canadian Sec,2019-02-11,2.00 - 2.30,-,USD,-,Filed
+,CStone Pharmaceuticals,HKSE,2019-02-11,-,-,HKD,-,Amended
+603681.SS,Shanghai Yongguan Adhesive,Shanghai,2019-02-12,-,10,CNY,37484000,Priced
+603681.SS,Shanghai Yongguan Adhesive,Shanghai,2019-02-12,-,-,CNY,41647901,Expected
+,Armada Berjaya Trans,Jakarta,2019-02-12,0.02 - 0.02,-,IDR,-,Expected
+ANCN,ANCHIANO THERAPEUTICS LTD.,NasdaqCM,2019-02-12,14.55 - 14.55,-,USD,-,Expected
+,Dexin China Hldg Co Ltd,HKSE,2019-02-12,-,-,USD,-,Amended
+,Super-Pharm (Israel) Ltd,Tel Aviv,2019-02-12,-,-,ILS,-,Filed
+,Leaside Capital Corp,TSXV,2019-02-12,0.08 - 0.08,-,-,3000000,Amended
+,Nutsay A/S,SAT,2019-02-13,1.09 - 1.09,7.2,DKK,2962777,Priced
+1872.HK,Guan Chao Holdings Ltd,HKSE,2019-02-13,-,0.43,HKD,90000000,Priced
+1887.JP,JDC Corp,Japan OTC,2019-02-13,4.57 - 4.57,-,JPY,12110400,Expected
+1887.JP,JDC Corp,Japan OTC,2019-02-13,4.57 - 4.57,-,JPY,1345600,Expected
+FRS.P.V,Farstarcap Invest Corp,TSXV,2019-02-13,0.08 - 0.08,0.05,CAD,2500000,Priced
+2971.JP,ESCON JAPAN REIT Investment Co,Japan OTC,2019-02-13,952.25 - 952.25,-,JPY,9189,Priced
+IMAC,"IMAC HOLDINGS, INC.",NasdaqCM,2019-02-13,5.13 - 5.13,-,USD,-,Expected
+UWL.AX,Uniti Wireless Ltd,ASX,2019-02-13,-,0.25,AUD,4744212,Priced
+9286.JP,Enex Infrastructure Invest,Japan OTC,2019-02-13,901.00 - 901.00,-,JPY,86269,Priced
+UWL.AX,Uniti Wireless Ltd,ASX,2019-02-13,-,0.25,AUD,47980000,Priced
+VTUS,VIRGIN TRAINS USA LLC,Nasdaq,2019-02-13,17.00 - 19.00,-,USD,-,Expected
+9286.JP,Enex Infrastructure Invest,Japan OTC,2019-02-13,901.00 - 901.00,-,JPY,3731,Priced
+2971.JP,ESCON JAPAN REIT Investment Co,Japan OTC,2019-02-13,952.25 - 952.25,-,JPY,179162,Priced
+1872.HK,Guan Chao Holdings Ltd,HKSE,2019-02-13,-,-,HKD,-,Amended
+1872.HK,Guan Chao Holdings Ltd,HKSE,2019-02-13,-,-,HKD,-,Amended
+RNR.CN,Mariner Resources Corp,Canadian Sec,2019-02-14,0.11 - 0.11,0.15,CAD,2750000,Priced
+,CStone Pharmaceuticals,HKSE,2019-02-14,-,-,HKD,-,Expected
+2616.HK,CStone Pharmaceuticals,HKSE,2019-02-14,-,12,HKD,18640000,Priced
+,Anmol India Ltd,BSE,2019-02-14,0.47 - 0.47,-,INR,2944000,Expected
+TCRR,TCR2 THERAPEUTICS INC.,NasdaqGM,2019-02-14,14.00 - 16.00,-,USD,-,Expected
+A1G.AX,African Gold Ltd,ASX,2019-02-14,0.14 - 0.14,0.2,AUD,22500000,Priced
+HOTH,"HOTH THERAPEUTICS, INC.",NasdaqCM,2019-02-14,5.50 - 6.50,-,USD,-,Expected
+CBUS,"CIBUS GLOBAL, LTD.",NasdaqGS,2019-02-14,14.00 - 16.00,-,USD,-,Expected
+,Anmol India Ltd,BSE,2019-02-14,0.47 - 0.47,-,INR,156000,Expected
+AVDR,AVEDRO INC,NasdaqGM,2019-02-14,14.00 - 16.00,-,USD,-,Expected
+,Booktopia Grp Ltd,ASX,2019-02-14,0.72 - 0.72,-,AUD,3000000,Filed
+,Mariner Resources Corp,Canadian Sec,2019-02-14,0.11 - 0.11,0.15,-,2750000,Filed
+,Nutsay A/S,SAT,2019-02-14,1.09 - 1.09,-,DKK,-,Filed
+2019.HK,Dexin China Hldg Co Ltd,HKSE,2019-02-14,-,-,HKD,-,Amended
+PE1.AX,Pengana Pvt Equity Trust,ASX,2019-02-15,-,1.25,AUD,800000000,Priced
+,Amogreentech Co Ltd,KOSDAQ,2019-02-15,7.82 - 8.80,-,KRW,1032000,Priced
+1025.HK,KNT Holdings Ltd,HKSE,2019-02-15,-,0.98,HKD,39000000,Priced
+1703.HK,Palace Banquet Holdings Ltd,HKSE,2019-02-15,-,0.5,HKD,30000000,Priced
+MITO,STEALTH BIOTHERAPEUTICS CORP,NasdaqGM,2019-02-15,12.00 - 14.00,-,USD,-,Expected
+1703.HK,Palace Banquet Holdings Ltd,HKSE,2019-02-15,-,0.5,HKD,240000000,Priced
+,Armada Berjaya Trans,Jakarta,2019-02-15,0.02 - 0.02,-,IDR,-,Expected
+FRS.P.V,Farstarcap Invest Corp,TSXV,2019-02-15,0.08 - 0.08,0.05,CAD,2500000,Priced
+,Jonjua Overseas Ltd,BSE,2019-02-15,0.14 - 0.14,-,INR,1230000,Expected
+,Jonjua Overseas Ltd,BSE,2019-02-15,0.14 - 0.14,-,INR,70000,Expected
+1025.HK,KNT Holdings Ltd,HKSE,2019-02-15,-,-,HKD,-,Amended
+1025.HK,KNT Holdings Ltd,HKSE,2019-02-15,-,-,HKD,-,Amended
+PE1.AX,Pengana Pvt Equity Trust,ASX,2019-02-15,0.89 - 0.89,-,AUD,-,Amended
+,PT Bpd South Kalimantan,Jakarta,2019-02-15,-,-,IDR,-,Filed
+000166.SZ,Shenwan Hongyuan Group Co Ltd,Shenzhen,2019-02-15,-,-,HKD,-,Amended
+,Zhejiang New Century Hotel,HKSE,2019-02-15,-,-,USD,-,Amended
+EXX.AX,Expose Resources Ltd,ASX,2019-02-15,0.14 - 0.14,-,AUD,20000000,Amended
+,Stuhini Exploration Ltd,TSXV,2019-02-15,0.15 - 0.15,-,CAD,4000000,Amended
+,Amogreentech Co Ltd,KOSDAQ,2019-02-15,7.82 - 8.80,-,KRW,825500,Filed
+,Aker Energy AS,Oslo,2019-02-15,-,-,NOK,-,Filed
+EXX.AX,Expose Resources Ltd,ASX,2019-02-15,0.14 - 0.14,-,-,20000000,Withdrawn
+,Hyundai Autoever Corp,KSE,2019-02-18,-,-,KRW,1404000,Priced
+,KB SPAC 17,KOSDAQ,2019-02-18,1.78 - 1.78,-,KRW,1000000,Priced
+228760.KQ,Genomictree Inc,KOSDAQ,2019-02-18,15.11 - 22.23,-,KRW,920000,Expected
+,Mahip Inds Ltd,BSE,2019-02-18,0.44 - 0.44,-,INR,6360000,Expected
+603681.SS,Shanghai Yongguan Adhesive,Shanghai,2019-02-18,-,-,CNY,41647901,Expected
+,Jinxin Fertility Group Ltd,HKSE,2019-02-18,-,-,USD,-,Amended
+,Genomictree Inc,KOSDAQ,2019-02-18,15.11 - 22.23,-,KRW,920000,Filed
+,KB SPAC 17,KOSDAQ,2019-02-18,1.78 - 1.78,-,KRW,1000000,Filed
+1951.HK,Jinxin Fertility Group Ltd,HKSE,2019-02-18,-,8.54,HKD,142852000,Amended
+,Mahip Industries Ltd,BSE,2019-02-18,0.44 - 0.44,32,INR,4936000,Amended
+1951.HK,Jinxin Fertility Group Ltd,HKSE,2019-02-18,-,8.54,HKD,144280000,Amended
+1951.HK,Jinxin Fertility Group Ltd,HKSE,2019-02-18,-,8.54,HKD,76582000,Amended
+,Hyundai Autoever Corp,KSE,2019-02-18,-,-,KRW,-,Amended
+6093.HK,Hevol Services Group Co Ltd,HKSE,2019-02-19,-,-,HKD,-,Expected
+,Roopshri Resorts Ltd,BSE,2019-02-19,0.28 - 0.28,20,INR,1704000,Priced
+,Roopshri Resorts Ltd,BSE,2019-02-19,0.28 - 0.28,20,INR,96000,Priced
+,Roopshri Resorts Ltd,BSE,2019-02-19,0.28 - 0.28,-,INR,96000,Expected
+,Roopshri Resorts Ltd,BSE,2019-02-19,0.28 - 0.28,-,INR,1704000,Expected
+,PT Wahana Interfood Nusantara,Jakarta,2019-02-19,2.50 - 2.78,-,INR,168000000,Expected
+CLB.AX,Candy Club Hldg Ltd,ASX,2019-02-19,0.15 - 0.15,0.2,AUD,40000000,Priced
+SOLY,Soliton Inc,NasdaqGM,2019-02-19,5.00 - 5.00,5,USD,2172591,Priced
+,Jinxin Fertility Group Ltd,HKSE,2019-02-19,-,-,USD,-,Amended
+,Hevol Services Group Co Ltd,HKSE,2019-02-19,-,-,HKD,-,Filed
+,Pt Wahana Interfood Nusantara,Jakarta,2019-02-19,0.01 - 0.01,188,IDR,168000000,Filed
+,SinoMab BioScience Ltd,HKSE,2019-02-19,-,-,HKD,-,Filed
+6093.HK,Hevol Services Group Co Ltd,HKSE,2019-02-19,-,1.28,HKD,10000000,Amended
+6093.HK,Hevol Services Group Co Ltd,HKSE,2019-02-19,-,1.28,HKD,90000000,Amended
+GSC.BK,Global Service Center Co Ltd,Thailand,2019-02-20,0.05 - 0.05,1.7,THB,27000000,Priced
+GSC.BK,Global Service Center Co Ltd,Thailand,2019-02-20,0.05 - 0.05,1.7,THB,63000000,Priced
+2019.HK,Dexin China Hldg Co Ltd,HKSE,2019-02-20,-,2.8,HKD,16906000,Priced
+,Kranti Industries Ltd,BSE,2019-02-20,0.18 - 0.18,-,INR,2460000,Expected
+,Cellid Co Ltd,KOSDAQ,2019-02-20,22.40 - 27.78,-,KRW,249270,Priced
+,Kranti Industries Ltd,BSE,2019-02-20,0.18 - 0.18,-,INR,-,Expected
+,PT Arkha Jayanti Persada Tbk,Jakarta,2019-02-20,-,-,IDR,-,Amended
+,Pentech Metals Ltd,BSE,2019-02-20,-,-,INR,360000,Filed
+AXS.AX,Axs Grp Ltd,ASX,2019-02-20,0.18 - 0.18,-,AUD,26000000,Amended
+,Pentech Metals Ltd,BSE,2019-02-20,-,-,INR,6080000,Filed
+,PT Pelabuhan Tanjung Priok,Jakarta,2019-02-20,-,-,USD,-,Amended
+2108.HK,K2 F&B Holdings Ltd,HKSE,2019-02-21,-,0.75,HKD,60000000,Priced
+1025.HK,KNT Holdings Ltd,HKSE,2019-02-21,-,-,HKD,-,Amended
+1025.HK,KNT Holdings Ltd,HKSE,2019-02-21,-,-,HKD,-,Amended
+1930.HK,Shinelong Automotive,HKSE,2019-02-21,-,0.88,HKD,16500000,Amended
+,Shinelong Automotive,HKSE,2019-02-21,-,-,HKD,-,Filed
+1930.HK,Shinelong Automotive,HKSE,2019-02-21,-,0.88,HKD,148500000,Amended
+,K2 Capital Invest Hldg Ltd,HKSE,2019-02-21,-,-,HKD,-,Amended
+,Arabian Centres Co Ltd,Saudi,2019-02-21,-,-,USD,-,Amended
+,Ecofibre Ltd,ASX,2019-02-22,0.71 - 0.71,1,AUD,20000000,Priced
+2972.JP,Sankei Real Estate Inc,Japan OTC,2019-02-22,910.70 - 910.70,-,JPY,216876,Priced
+2972.JP,Sankei Real Estate Inc,Japan OTC,2019-02-22,910.70 - 910.70,-,JPY,10362,Priced
+2972.JP,Sankei Real Estate Inc,Japan OTC,2019-02-22,910.70 - 910.70,-,JPY,10362,Expected
+2972.JP,Sankei Real Estate Inc,Japan OTC,2019-02-22,910.70 - 910.70,-,JPY,216876,Expected
+MPH.AX,Mediland Pharm Ltd,ASX,2019-02-22,0.14 - 0.14,0.2,AUD,62763610,Priced
+1887.JP,JDC Corp,Japan OTC,2019-02-22,4.57 - 4.57,-,JPY,12110400,Expected
+,Gleam Fabmat Ltd,BSE,2019-02-22,0.14 - 0.14,-,INR,2960000,Expected
+1887.JP,JDC Corp,Japan OTC,2019-02-22,4.57 - 4.57,-,JPY,1345600,Expected
+ACAMU,ACAMAR PARTNERS ACQUISITION CORP.,NasdaqCM,2019-02-22,10.00 - 10.00,-,USD,-,Expected
+603956.SS,WPG Shanghai Smart Water,Shanghai,2019-02-22,-,5.7,CNY,38337000,Priced
+,Gleam Fabmat Ltd,BSE,2019-02-22,0.14 - 0.14,-,INR,160000,Expected
+,Ecofibre Ltd,ASX,2019-02-22,0.71 - 0.71,-,AUD,15000000,Amended
+ATO.AX,Altostratos Hldg Ltd,ASX,2019-02-22,0.28 - 0.28,-,AUD,40000000,Amended
+1902.HK,Yincheng Intl Hldg Co Ltd,HKSE,2019-02-22,-,-,HKD,-,Amended
+JFIN,Jiayin Grp Inc,NasdaqGM,2019-02-22,-,-,UGX,-,Amended
+,Sim Leisure Group Ltd,SES,2019-02-22,-,0.22,SGD,26400000,Amended
+,Jonjua Overseas Ltd,BSE,2019-02-25,0.14 - 0.14,10,INR,1230000,Priced
+,Jonjua Overseas Ltd,BSE,2019-02-25,0.14 - 0.14,10,INR,70000,Priced
+IRX.AX,irexchange Ltd,ASX,2019-02-25,0.63 - 0.63,-,AUD,19444444,Filed
+ATO.AX,Altostratos Hldg Ltd,ASX,2019-02-25,0.28 - 0.28,-,AUD,40000000,Amended
+,C-Link Sqd Ltd,HKSE,2019-02-25,-,-,HKD,-,Filed
+CCI.V,Castlecap Capital Inc,TSXV,2019-02-25,0.10 - 0.10,0.1,USD,2000000,Amended
+,Onoff AG,Frankfurt,2019-02-25,-,-,EUR,-,Amended
+4432.JP,WingArc1st Inc,Japan OTC,2019-02-25,18.09 - 18.09,-,-,12941400,Withdrawn
+4432.JP,WingArc1st Inc,Japan OTC,2019-02-25,18.09 - 18.09,-,-,8013600,Withdrawn
+,IVD Medical Holding Ltd,HKSE,2019-02-26,-,-,HKD,-,Expected
+,IVD Medical Holding Ltd,HKSE,2019-02-26,-,-,HKD,-,Expected
+,US Solar Fund PLC,LSE,2019-02-26,1.00 - 1.00,-,USD,-,Expected
+USFP.L,US Solar Fund PLC,LSE,2019-02-26,1.00 - 1.00,1,USD,200000000,Priced
+1158.HK,Zhejiang New Century Hotel,HKSE,2019-02-26,-,16.5,HKD,7000000,Priced
+SLGG,"SUPER LEAGUE GAMING, INC.",NasdaqCM,2019-02-26,10.00 - 12.00,-,USD,-,Expected
+2616.HK,CStone Pharmaceuticals,HKSE,2019-02-26,-,12,HKD,18640000,Priced
+2019.HK,Dexin China Hldg Co Ltd,HKSE,2019-02-26,-,2.8,HKD,16906000,Priced
+1158.HK,Zhejiang New Century Hotel,HKSE,2019-02-26,-,-,HKD,-,Amended
+,Beijing-Shanghai High-Speed,Shanghai,2019-02-26,-,-,CNY,-,Amended
+1931.HK,IVD Medical Holding Ltd,HKSE,2019-02-26,-,3.07,HKD,300060000,Amended
+1931.HK,IVD Medical Holding Ltd,HKSE,2019-02-26,-,3.07,HKD,33340000,Amended
+,Huisen Hsehld Intl Grp Ltd,HKSE,2019-02-26,-,-,HKD,-,Filed
+1891.HK,Heng Hup Holdings Ltd,HKSE,2019-02-27,-,0.5,HKD,59400000,Priced
+1891.HK,Heng Hup Holdings Ltd,HKSE,2019-02-27,-,0.5,HKD,125000000,Priced
+1891.HK,Heng Hup Holdings Ltd,HKSE,2019-02-27,-,0.5,HKD,65600000,Priced
+1793.HK,Wecon Holdings Ltd,HKSE,2019-02-27,-,0.625,HKD,60000000,Priced
+TIP.AX,Teaminvest Private Group Ltd,ASX,2019-02-27,0.71 - 0.71,1,AUD,2300000,Filed
+,Grupo Avenida SA,Sao Paolo,2019-02-27,-,-,BRL,-,Filed
+1891.HK,Heng Hup Holdings Ltd,HKSE,2019-02-27,-,-,HKD,-,Amended
+1891.HK,Heng Hup Holdings Ltd,HKSE,2019-02-27,-,-,HKD,-,Amended
+,China Risun Coal Chemicals Gro,HKSE,2019-02-27,-,-,HKD,-,Amended
+1891.HK,Heng Hup Holdings Ltd,HKSE,2019-02-27,-,-,HKD,-,Amended
+,Aoyuan Healthy Life Grp Co,HKSE,2019-02-27,-,-,HKD,-,Amended
+TIP.AX,Teaminvest Private Group Ltd,ASX,2019-02-27,0.71 - 0.71,-,AUD,500000,Filed
+,Jinshang Bank Co Ltd,HKSE,2019-02-27,-,-,USD,-,Amended
+,China Risun Coal Chemicals Gro,HKSE,2019-02-27,-,-,HKD,-,Amended
+,Aoyuan Healthy Life Grp Co,HKSE,2019-02-27,-,-,HKD,-,Amended
+LLO.P.V,Ll One Inc,TSXV,2019-02-28,0.08 - 0.08,0.1,CAD,4200000,Priced
+VLDY.P.V,Valdy Invests Ltd,TSXV,2019-02-28,0.08 - 0.08,0.1,CAD,2500000,Priced
+,Fortress Minerals Ltd,SES,2019-02-28,-,0.2,SGD,23750000,Priced
+,Fortress Minerals Ltd,SES,2019-02-28,-,-,SGD,-,Expected
+,Fortress Minerals Ltd,SES,2019-02-28,-,-,SGD,-,Expected
+,Fortress Minerals Ltd,SES,2019-02-28,-,0.2,SGD,51250000,Priced
+1907.HK,China Risun Group Ltd,HKSE,2019-02-28,-,2.8,HKD,60000000,Priced
+3316.HK,Binjiang Service Group Co Ltd,HKSE,2019-02-28,-,6.96,HKD,6670000,Priced
+1563.HK,Intl Alliance Finl Leasing Co,HKSE,2019-02-28,-,0.85,HKD,445500000,Priced
+1563.HK,Intl Alliance Finl Leasing Co,HKSE,2019-02-28,-,0.85,HKD,49500000,Priced
+1917.HK,Doumob,HKSE,2019-02-28,-,0.41,HKD,98900000,Priced
+1917.HK,Doumob,HKSE,2019-02-28,-,0.41,HKD,98900000,Priced
+1902.HK,Yincheng Intl Hldg Co Ltd,HKSE,2019-02-28,-,2.38,HKD,14486000,Priced
+1902.HK,Yincheng Intl Hldg Co Ltd,HKSE,2019-02-28,-,2.38,HKD,339776000,Priced
+3662.HK,Aoyuan Healthy Life Grp Co,HKSE,2019-02-28,-,-,HKD,-,Expected
+WNST.P.V,Winston Capital Grp Inc,TSXV,2019-02-28,0.07 - 0.07,0.1,CAD,5000000,Priced
+,China Risun Coal Chemicals Gro,HKSE,2019-02-28,-,-,HKD,-,Expected
+AVC.P.V,Alphanco Venture Corp,TSXV,2019-02-28,0.07 - 0.07,0.1,CAD,4000000,Priced
+SHLLU,TORTOISE ACQUISITION CORP.,NYSE,2019-02-28,10.00 - 10.00,-,USD,-,Expected
+,CStone Pharmaceuticals,HKSE,2019-02-28,-,-,HKD,-,Expected
+KLDO,"KALEIDO BIOSCIENCES, INC.",NasdaqGS,2019-02-28,20.00 - 22.00,-,USD,-,Expected
+1025.HK,KNT Holdings Ltd,HKSE,2019-02-28,-,0.98,HKD,39000000,Priced
+1872.HK,Guan Chao Holdings Ltd,HKSE,2019-02-28,-,0.43,HKD,90000000,Priced
+,Mcom Hldg Bhd,Kuala Lumpur,2019-02-28,0.07 - 0.07,-,MYR,18856000,Filed
+1917.HK,Doumob,HKSE,2019-02-28,-,-,HKD,-,Amended
+1917.HK,Doumob,HKSE,2019-02-28,-,-,HKD,-,Amended
+NHT.V,NexPoint Hospitality Trust Inc,TSXV,2019-02-28,-,-,USD,-,Amended
+,Ll One Inc,TSXV,2019-02-28,0.08 - 0.08,-,-,3750000,Filed
+,GKP Printing & Pkg Ltd,BSE,2019-02-28,0.45 - 0.45,-,INR,104000,Filed
+,Valdy Invests Ltd,TSXV,2019-02-28,0.08 - 0.08,0.1,-,2000000,Filed
+1563.HK,Intl Alliance Finl Leasing Co,HKSE,2019-02-28,-,-,HKD,-,Amended
+,PT Jasnita Telekomindo Tbk,Jakarta,2019-02-28,-,-,IDR,-,Filed
+,GKP Printing & Pkg Ltd,BSE,2019-02-28,0.45 - 0.45,-,INR,1952000,Filed
+,PT Fuji Finance Indonesia,Jakarta,2019-02-28,-,-,IDR,-,Filed
+3316.HK,Binjiang Service Group Co Ltd,HKSE,2019-02-28,-,-,HKD,-,Amended
+,PT Yomari Eksis Sejahtera Tbk,Jakarta,2019-02-28,-,-,IDR,-,Filed
+,GKP Printing & Pkg Ltd,BSE,2019-02-28,0.45 - 0.45,32,INR,104000,Filed
+,PT Fuji Finance Indonesia,Jakarta,2019-02-28,-,110,IDR,300000000,Amended
+,GKP Printing & Pkg Ltd,BSE,2019-02-28,0.45 - 0.45,32,INR,1952000,Filed
+,Tin Shing Grp Hldg Ltd,HKSE,2019-02-28,-,-,HKD,-,Filed
+1563.HK,Intl Alliance Finl Leasing Co,HKSE,2019-02-28,-,-,HKD,-,Amended
+600928.SS,Bank of Xi'an Co Ltd,Shanghai,2019-03-01,-,4.68,CNY,400001000,Priced
+,Mahip Inds Ltd,BSE,2019-03-01,0.44 - 0.44,-,INR,6360000,Expected
+HCACU,HENNESSY CAPITAL ACQUISITION CORP IV,NasdaqCM,2019-03-01,10.00 - 10.00,-,USD,-,Expected
+1158.HK,Zhejiang New Century Hotel,HKSE,2019-03-01,-,-,HKD,-,Amended
+,Justin Allen Holdings Ltd,HKSE,2019-03-01,-,-,HKD,-,Filed
+,Dalipal Hldg Ltd,HKSE,2019-03-01,-,-,HKD,-,Filed
+,Jiu Zun Digital Interactive,HKSE,2019-03-01,-,-,HKD,-,Filed
+,Cian Healthcare Ltd,BSE,2019-03-02,-,-,INR,-,Expected
+,Reclaims Global Ltd,SES,2019-03-02,-,-,SGD,-,Expected
+,Artemis Electricals Ltd,BSE,2019-03-02,-,-,INR,1606400,Amended
+,Artemis Electricals Ltd,BSE,2019-03-02,-,60,INR,356000,Amended
+,Artemis Electricals Ltd,BSE,2019-03-02,-,60,INR,7000000,Amended
+,Reclaims Global Ltd,SES,2019-03-02,-,0.23,SGD,20000000,Amended
+,Cian Healthcare Ltd,BSE,2019-03-02,-,62,INR,5900000,Amended
+,Cian Healthcare Ltd,BSE,2019-03-02,-,-,INR,6216000,Filed
+,Cian Healthcare Ltd,BSE,2019-03-02,-,61,INR,316000,Amended
+600928.SS,Bank of Xi'an Co Ltd,Shanghai,2019-03-01,-,4.68,CNY,400001000,Priced
+,Mahip Inds Ltd,BSE,2019-03-01,0.44 - 0.44,-,INR,6360000,Expected
+HCACU,HENNESSY CAPITAL ACQUISITION CORP IV,NasdaqCM,2019-03-01,10.00 - 10.00,-,USD,-,Expected
+1158.HK,Zhejiang New Century Hotel,HKSE,2019-03-01,-,-,HKD,-,Amended
+,Justin Allen Holdings Ltd,HKSE,2019-03-01,-,-,HKD,-,Filed
+,Dalipal Hldg Ltd,HKSE,2019-03-01,-,-,HKD,-,Filed
+,Jiu Zun Digital Interactive,HKSE,2019-03-01,-,-,HKD,-,Filed
+,Cian Healthcare Ltd,BSE,2019-03-02,-,-,INR,-,Expected
+,Reclaims Global Ltd,SES,2019-03-02,-,-,SGD,-,Expected
+,Artemis Electricals Ltd,BSE,2019-03-02,-,-,INR,1606400,Amended
+,Artemis Electricals Ltd,BSE,2019-03-02,-,60,INR,356000,Amended
+,Artemis Electricals Ltd,BSE,2019-03-02,-,60,INR,7000000,Amended
+,Reclaims Global Ltd,SES,2019-03-02,-,0.23,SGD,20000000,Amended
+,Cian Healthcare Ltd,BSE,2019-03-02,-,62,INR,5900000,Amended
+,Cian Healthcare Ltd,BSE,2019-03-02,-,-,INR,6216000,Filed
+,Cian Healthcare Ltd,BSE,2019-03-02,-,61,INR,316000,Amended
+,Hampton Bay Capital Inc,TSXV,2019-03-04,0.08 - 0.08,0.1,CAD,6219500,Priced
+2682.HK,Yun Lee Marine Grp Hldg Ltd,HKSE,2019-03-04,-,0.5,HKD,176068000,Priced
+2682.HK,Yun Lee Marine Grp Hldg Ltd,HKSE,2019-03-04,-,0.5,HKD,73932000,Priced
+4432.JP,WingArc1st Inc,Japan OTC,2019-03-04,18.09 - 18.09,-,JPY,8013600,Expected
+AVC.P.V,Alphanco Venture Corp,TSXV,2019-03-04,0.07 - 0.07,0.1,CAD,4000000,Priced
+4432.JP,WingArc1st Inc,Japan OTC,2019-03-04,18.09 - 18.09,-,JPY,12941400,Expected
+,Ecofibre Ltd,ASX,2019-03-04,0.71 - 0.71,-,AUD,15000000,Amended
+,Sichuan Languang Justbon Svcs,HKSE,2019-03-04,-,-,HKD,-,Filed
+,Inclusio,Brussels,2019-03-04,-,-,EUR,-,Filed
+,Coco Group,Jakarta,2019-03-04,-,-,IDR,-,Amended
+,PT Pupuk Indonesia Energi,Jakarta,2019-03-04,-,-,IDR,-,Filed
+WNST.P.V,Winston Capital Grp Inc,TSXV,2019-03-05,0.07 - 0.07,0.1,CAD,5000000,Priced
+,China Risun Coal Chemicals Gro,HKSE,2019-03-05,-,-,HKD,-,Expected
+,Ecopro Bm Co Ltd,KOSDAQ,2019-03-05,33.34 - 38.14,-,KRW,1320000,Priced
+2972.JP,Sankei Real Estate Inc,Japan OTC,2019-03-05,910.70 - 910.70,-,JPY,10362,Expected
+2972.JP,Sankei Real Estate Inc,Japan OTC,2019-03-05,910.70 - 910.70,-,JPY,216876,Expected
+1917.HK,Doumob,HKSE,2019-03-05,-,-,HKD,-,Amended
+1917.HK,Doumob,HKSE,2019-03-05,-,-,HKD,-,Amended
+,Ningxia Baofeng Energy Grp Co,Shanghai,2019-03-05,-,-,CNY,733360000,Amended
+,Inteco AO,MCX,2019-03-05,-,-,RUB,-,Amended
+MOT.AX,MCP Income Opportunities Trust,ASX,2019-03-05,-,-,AUD,-,Amended
+,Buzbuz Capital Corp,TSXV,2019-03-05,0.07 - 0.07,-,CAD,2500000,Filed
+MOT.AX,MCP Income Opportunities Trust,ASX,2019-03-05,-,2,AUD,150000000,Amended
+,Topsports Intl Hldg Ltd,HKSE,2019-03-05,-,-,USD,-,Amended
+MZR.AX,Mont Royal Resources Ltd,ASX,2019-03-06,-,0.2,AUD,25000000,Priced
+3662.HK,Aoyuan Healthy Life Grp Co,HKSE,2019-03-06,-,3.66,HKD,17500000,Priced
+1902.HK,Yincheng Intl Hldg Co Ltd,HKSE,2019-03-06,-,2.38,HKD,14486000,Priced
+1902.HK,Yincheng Intl Hldg Co Ltd,HKSE,2019-03-06,-,2.38,HKD,339776000,Priced
+3662.HK,Aoyuan Healthy Life Grp Co,HKSE,2019-03-06,-,-,HKD,-,Expected
+2108.HK,K2 F&B Holdings Ltd,HKSE,2019-03-06,-,0.75,HKD,60000000,Priced
+,GT Gettaxi Services Israel Ltd,Tel Aviv,2019-03-06,-,-,ILS,-,Filed
+,Nyrada Inc,ASX,2019-03-06,-,-,AUD,-,Filed
+MZR.AX,Mont Royal Resources Ltd,ASX,2019-03-06,-,-,AUD,-,Filed
+NXS.AX,Next Science Ltd,ASX,2019-03-07,0.70 - 0.70,1,AUD,35000000,Priced
+,Jinaams Dress Ltd,BSE,2019-03-07,0.84 - 0.84,-,INR,7200000,Expected
+DXRX.L,Diaceutics PLC,LSE,2019-03-07,-,0.76,GBP,22368427,Priced
+,Aartech Solonics Ltd,BSE,2019-03-07,0.47 - 0.47,-,INR,108000,Expected
+,Aartech Solonics Ltd,BSE,2019-03-07,0.47 - 0.47,-,INR,2012000,Expected
+LSPD.V,Lightspeed POS Inc,TSXV,2019-03-07,-,16,CAD,15000000,Priced
+SWAV,"SHOCKWAVE MEDICAL, INC.",NasdaqGM,2019-03-07,14.00 - 16.00,-,USD,-,Expected
+,Reclaims Global Ltd,SES,2019-03-07,-,-,SGD,-,Expected
+,SK International Export Ltd,BSE,2019-03-07,0.29 - 0.29,20,INR,1878000,Filed
+,Aartech Solonics Ltd,BSE,2019-03-07,0.47 - 0.47,34,INR,2008000,Amended
+,Aartech Solonics Ltd,BSE,2019-03-07,0.47 - 0.47,34,INR,112000,Amended
+,SK International Export Ltd,BSE,2019-03-07,0.29 - 0.29,-,INR,102000,Filed
+NXS.AX,Next Science Ltd,ASX,2019-03-07,0.70 - 0.70,-,AUD,35000000,Filed
+,SK International Export Ltd,BSE,2019-03-07,0.29 - 0.29,-,INR,1878000,Filed
+,SK International Export Ltd,BSE,2019-03-07,0.29 - 0.29,20,INR,102000,Filed
+,Auston Capital Corp,TSXV,2019-03-07,0.08 - 0.08,-,CAD,3000000,Amended
+,Korea Retail Home Plus Reit I,KSE,2019-03-08,4.03 - 4.45,-,USD,345478280,Expected
+,Korea Retail Home Plus Reit I,KSE,2019-03-08,4.03 - 4.45,-,USD,345478280,Expected
+FHL,FUTU HOLDINGS LTD,NasdaqGM,2019-03-08,10.00 - 12.00,-,USD,-,Expected
+CBY.AX,Canterbury Resources Ltd,ASX,2019-03-08,0.22 - 0.22,0.3,AUD,20490741,Priced
+LSPD.V,Lightspeed POS Inc,TSXV,2019-03-08,-,16,CAD,15000000,Priced
+,Korea Retail Home Plus Reit I,KSE,2019-03-08,4.03 - 4.45,-,-,345478280,Withdrawn
+,Korea Retail Home Plus Reit I,KSE,2019-03-08,4.03 - 4.45,-,-,345478280,Withdrawn
+,Zhongliang Hldg Grp Co Ltd,HKSE,2019-03-10,0.00 - 0.00,-,USD,-,Amended
+1158.HK,Zhejiang New Century Hotel,HKSE,2019-03-11,-,16.5,HKD,7000000,Priced
+DWF.L,Dwf Group Ltd,LSE,2019-03-11,-,1.22,GBP,78052714,Priced
+,Bett Capital Corp,TSXV,2019-03-11,0.07 - 0.07,-,-,2000000,Filed
+,IntelliCentrics Global Hldg,HKSE,2019-03-11,-,-,USD,-,Amended
+,Powerica Ltd,BSE,2019-03-11,-,-,INR,-,Amended
+,Medacta International SA,Swiss,2019-03-11,-,-,CHF,-,Amended
+NA.V,TRI Capital Opportunities Corp,TSXV,2019-03-12,0.07 - 0.07,0.1,CAD,5000000,Priced
+PCI.AX,Perpetual Credit Income Trust,ASX,2019-03-12,0.78 - 0.78,1.1,AUD,400000000,Priced
+HPB.V,Hampton Bay Capital Inc,TSXV,2019-03-12,0.08 - 0.08,0.1,CAD,6219500,Priced
+2972.JP,Sankei Real Estate Inc,Japan OTC,2019-03-12,910.70 - 910.70,-,JPY,216876,Priced
+2972.JP,Sankei Real Estate Inc,Japan OTC,2019-03-12,910.70 - 910.70,-,JPY,10362,Priced
+,PT Arkha Jayanti Persada Tbk,Jakarta,2019-03-12,-,-,IDR,-,Amended
+PCI.AX,Perpetual Credit Income Trust,ASX,2019-03-12,0.78 - 0.78,-,AUD,136363637,Filed
+,China Yingrun Holdings Ltd,HKSE,2019-03-12,-,-,HKD,-,Filed
+,TRI Capital Opportunities Corp,TSXV,2019-03-12,0.07 - 0.07,0.1,-,5000000,Filed
+MOT.AX,MCP Income Opportunities Trust,ASX,2019-03-12,-,-,AUD,-,Amended
+,Vector REIT Inc,TSXV,2019-03-12,0.15 - 0.15,0.2,-,1000000,Filed
+NEOE3.SA,Neoenergia SA,Sao Paolo,2019-03-13,-,15.65,BRL,208044383,Priced
+603379.SS,Zhejiang Sanmei Chem Ind Co,Shanghai,2019-03-13,-,32.43,CNY,53761000,Priced
+603379.SS,Zhejiang Sanmei Chem Ind Co,Shanghai,2019-03-13,-,-,CNY,59733761,Expected
+LABS.P.V,A-Labs Capital Ii Corp,TSXV,2019-03-13,0.08 - 0.08,0.1,CAD,2000000,Priced
+CUSP.P.V,Cuspis Capital Ltd,TSXV,2019-03-13,0.15 - 0.15,0.2,CAD,10000000,Priced
+GSC.BK,Global Service Center Co Ltd,Thailand,2019-03-13,0.05 - 0.05,1.7,THB,27000000,Priced
+GSC.BK,Global Service Center Co Ltd,Thailand,2019-03-13,0.05 - 0.05,1.7,THB,63000000,Priced
+,PT Wahana Interfood Nusantara,Jakarta,2019-03-13,2.50 - 2.78,-,INR,168000000,Expected
+NEOE3.SA,Neoenergia SA,Sao Paolo,2019-03-13,-,-,BRL,-,Filed
+,Friendtimes Inc,HKSE,2019-03-13,-,-,HKD,-,Filed
+,V L Enterprise PCL,Thailand,2019-03-13,-,-,TWD,-,Amended
+,VR Films & Studios Ltd,BSE,2019-03-14,-,-,INR,372000,Expected
+,VR Films & Studios Ltd,BSE,2019-03-14,-,-,INR,-,Expected
+NETW.L,Network Intl Holdings PLC,LSE,2019-03-14,-,4.35,GBP,166666667,Priced
+NETW.L,Network Intl Holdings PLC,LSE,2019-03-14,-,4.35,GBP,33333333,Priced
+NETW.L,Network Intl Holdings PLC,LSE,2019-03-14,-,4.35,GBP,49950000,Priced
+1865.HK,Pipeline Engineering Hldg Ltd,HKSE,2019-03-14,-,0.55,HKD,69000000,Priced
+,Pipeline Engineering Hldg Ltd,HKSE,2019-03-14,-,-,HKD,-,Expected
+,Dreamtech Co Ltd,KSE,2019-03-14,9.85 - 11.63,-,KRW,973080,Priced
+,Dreamtech Co Ltd,KSE,2019-03-14,9.85 - 11.63,-,KRW,1459620,Priced
+N.A.V,Perihelion Capital Ltd,TSXV,2019-03-14,0.08 - 0.08,0.1,CAD,3014000,Priced
+1917.HK,Doumob,HKSE,2019-03-14,-,0.41,HKD,98900000,Priced
+,Korea Retail Home Plus Reit I,KSE,2019-03-14,4.03 - 4.45,-,USD,345478280,Expected
+,Korea Retail Home Plus Reit I,KSE,2019-03-14,4.03 - 4.45,-,USD,345478280,Expected
+1917.HK,Doumob,HKSE,2019-03-14,-,0.41,HKD,98900000,Priced
+,Kaneri Agro Industries Ltd,BSE,2019-03-14,0.43 - 0.43,-,INR,2560000,Filed
+,Network Intl Holdings Ltd,LSE,2019-03-14,-,-,GBP,-,Amended
+GRA.AX,Gold Tiger Resources,ASX,2019-03-14,0.14 - 0.14,-,AUD,20000000,Filed
+,Kaneri Agro Industries Ltd,BSE,2019-03-14,0.43 - 0.43,-,INR,140000,Filed
+,Catch Grp Pty Ltd,ASX,2019-03-14,-,-,AUD,-,Amended
+,Leong Hup Intl Sdn Bhd,Kuala Lumpur,2019-03-14,-,-,USD,-,Amended
+GRA.AX,Gold Tiger Resources,ASX,2019-03-14,0.14 - 0.14,-,-,20000000,Withdrawn
+1920.HK,Hands Form Holdings Ltd,HKSE,2019-03-15,-,-,HKD,-,Expected
+,Hi Special Purpose Acq Co Iv,KOSDAQ,2019-03-15,1.76 - 1.76,-,KRW,800000,Priced
+1797.HK,Koolearn Tech Hldg Ltd,HKSE,2019-03-15,-,10.2,HKD,148061000,Priced
+1797.HK,Koolearn Tech Hldg Ltd,HKSE,2019-03-15,-,10.2,HKD,16452000,Priced
+1797.HK,Koolearn Tech Hldg Ltd,HKSE,2019-03-15,-,-,HKD,-,Expected
+1797.HK,Koolearn Tech Hldg Ltd,HKSE,2019-03-15,-,-,HKD,-,Expected
+,Mirae Asset Venture Invest Co,KOSDAQ,2019-03-15,3.33 - 4.05,-,KRW,1100000,Priced
+1891.HK,Heng Hup Holdings Ltd,HKSE,2019-03-15,-,0.5,HKD,59400000,Priced
+1907.HK,China Risun Group Ltd,HKSE,2019-03-15,-,2.8,HKD,60000000,Priced
+1891.HK,Heng Hup Holdings Ltd,HKSE,2019-03-15,-,0.5,HKD,125000000,Priced
+3316.HK,Binjiang Service Group Co Ltd,HKSE,2019-03-15,-,6.96,HKD,6670000,Priced
+1563.HK,Intl Alliance Finl Leasing Co,HKSE,2019-03-15,-,0.85,HKD,445500000,Priced
+LABS.P.V,A-Labs Capital Ii Corp,TSXV,2019-03-15,0.08 - 0.08,0.1,CAD,2000000,Priced
+HPB.V,Hampton Bay Capital Inc,TSXV,2019-03-15,0.08 - 0.08,0.1,CAD,6219500,Priced
+1891.HK,Heng Hup Holdings Ltd,HKSE,2019-03-15,-,0.5,HKD,65600000,Priced
+1563.HK,Intl Alliance Finl Leasing Co,HKSE,2019-03-15,-,0.85,HKD,49500000,Priced
+TRNEU,TRINE ACQUISITION CORP.,NYSE,2019-03-15,10.00 - 10.00,-,USD,-,Expected
+,Evans Electric Ltd,BSE,2019-03-15,0.75 - 0.75,52,INR,352000,Filed
+COS.V,Cortus Metals Inc,TSXV,2019-03-15,0.07 - 0.07,0.1,-,2200000,Filed
+,Evans Electric Ltd,BSE,2019-03-15,-,-,INR,372000,Filed
+1920.HK,Hands Form Holdings Ltd,HKSE,2019-03-15,-,0.2,HKD,195000000,Amended
+,Hands Form Hldg Ltd,HKSE,2019-03-15,-,-,HKD,-,Filed
+NA.SA,Estok Comercio Representacoes,Sao Paolo,2019-03-15,-,-,BRL,-,Filed
+,Dohome PCL,Thailand,2019-03-15,-,-,THB,468000000,Amended
+,Evans Electric Ltd,BSE,2019-03-15,0.75 - 0.75,52,INR,20000,Filed
+,Hi SPAC 4,KOSDAQ,2019-03-15,1.76 - 1.76,-,KRW,800000,Filed
+,Xinyi Energy Holdings Ltd,HKSE,2019-03-17,-,-,HKD,-,Expected
+3868.HK,Xinyi Energy Holdings Ltd,HKSE,2019-03-17,-,1.94,HKD,188300000,Amended
+,Xinyi Energy Holdings Ltd,HKSE,2019-03-17,-,-,HKD,-,Filed
+,Eagle Hospitality Trust,SES,2019-03-18,-,-,USD,-,Expected
+6819.HK,IntelliCentrics Global Hldg,HKSE,2019-03-18,-,5.35,HKD,4736500,Priced
+MNTN.L,The Schiehallion Fund Ltd,LSE,2019-03-18,1.00 - 1.00,1,USD,477250002,Priced
+MNTN.L,The Schiehallion Fund Ltd,LSE,2019-03-18,1.00 - 1.00,-,USD,250000000,Expected
+6819.HK,IntelliCentrics Global Hldg,HKSE,2019-03-18,-,-,HKD,-,Expected
+,Aartech Solonics Ltd,BSE,2019-03-18,0.47 - 0.47,-,INR,108000,Expected
+,Aartech Solonics Ltd,BSE,2019-03-18,0.47 - 0.47,-,INR,2012000,Expected
+,Hampton Bay Capital Inc,TSXV,2019-03-18,0.08 - 0.08,0.1,CAD,6219500,Priced
+2682.HK,Yun Lee Marine Grp Hldg Ltd,HKSE,2019-03-18,-,0.5,HKD,176068000,Priced
+3662.HK,Aoyuan Healthy Life Grp Co,HKSE,2019-03-18,-,3.66,HKD,17500000,Priced
+2682.HK,Yun Lee Marine Grp Hldg Ltd,HKSE,2019-03-18,-,0.5,HKD,73932000,Priced
+,Itqan Capital Saudi Eq Fund,Saudi,2019-03-18,-,-,SAR,-,Filed
+,Eagle Hospitality Trust,SES,2019-03-18,-,0.78,USD,44871000,Amended
+,Eagle Hospitality Trust,SES,2019-03-18,-,0.78,USD,535687000,Amended
+,China Pengfei Grp Ltd,HKSE,2019-03-18,-,-,HKD,-,Filed
+,YouYou Foods Co Ltd,Shanghai,2019-03-18,-,-,CNY,79500000,Amended
+,Eagle Hospitality REIT,SES,2019-03-18,-,-,USD,-,Filed
+SRAIL.SW,Stadler Rail AG,Swiss,2019-03-19,-,-,CHF,-,Expected
+SRAIL.SW,Stadler Rail AG,Swiss,2019-03-19,-,38,CHF,35000000,Priced
+,Fortress Minerals Ltd,SES,2019-03-19,-,0.2,SGD,23750000,Priced
+,Fortress Minerals Ltd,SES,2019-03-19,-,-,SGD,-,Expected
+,Fortress Minerals Ltd,SES,2019-03-19,-,-,SGD,-,Expected
+,Fortress Minerals Ltd,SES,2019-03-19,-,0.2,SGD,51250000,Priced
+603967.SS,China Master Logistics Co Ltd,Shanghai,2019-03-19,-,-,CNY,66666700,Expected
+,Sun Car Ins Agcy Co. Ltd,HKSE,2019-03-19,-,-,HKD,-,Expected
+,Sun Car Ins Agcy Co. Ltd,HKSE,2019-03-19,-,-,HKD,-,Expected
+,Sun Car Ins Agcy Co. Ltd,HKSE,2019-03-19,-,-,HKD,-,Expected
+603379.SS,Zhejiang Sanmei Chem Ind Co,Shanghai,2019-03-19,-,-,CNY,59733761,Expected
+228760.KQ,Genomictree Inc,KOSDAQ,2019-03-19,15.11 - 22.23,-,KRW,920000,Expected
+,Humming Bird Education Ltd,BSE,2019-03-19,1.86 - 1.86,-,INR,9000,Expected
+,Humming Bird Education Ltd,BSE,2019-03-19,1.86 - 1.86,-,INR,154000,Expected
+,Pipeline Engineering Hldg Ltd,HKSE,2019-03-19,-,-,HKD,-,Expected
+603967.SS,China Master Logistics Co Ltd,Shanghai,2019-03-19,-,15.32,CNY,26666000,Amended
+,Leaside Capital Corp,TSXV,2019-03-19,0.08 - 0.08,-,-,3000000,Amended
+,Prospa Advance Pty Ltd,ASX,2019-03-19,-,-,AUD,-,Filed
+1817.HK,Mulsanne Group Holding Ltd,HKSE,2019-03-20,-,4.39,HKD,9559000,Priced
+1817.HK,Mulsanne Group Holding Ltd,HKSE,2019-03-20,-,4.39,HKD,145658000,Priced
+1817.HK,Mulsanne Group Holding Ltd,HKSE,2019-03-20,-,4.39,HKD,44783000,Priced
+1817.HK,Mulsanne Group Holding Ltd,HKSE,2019-03-20,-,-,HKD,-,Expected
+1817.HK,Mulsanne Group Holding Ltd,HKSE,2019-03-20,-,-,HKD,-,Expected
+1817.HK,Mulsanne Group Holding Ltd,HKSE,2019-03-20,-,-,HKD,-,Expected
+TIGR,UP FINTECH HOLDING LTD,NasdaqGS,2019-03-20,5.00 - 7.00,-,USD,-,Expected
+1797.HK,Koolearn Tech Hldg Ltd,HKSE,2019-03-20,-,-,HKD,-,Expected
+ILSUU,INSURANCE ACQUISITION CORP.,NasdaqCM,2019-03-20,10.00 - 10.00,-,USD,-,Expected
+1797.HK,Koolearn Tech Hldg Ltd,HKSE,2019-03-20,-,-,HKD,-,Expected
+,Mcom Hldg Bhd,Kuala Lumpur,2019-03-20,0.07 - 0.07,-,MYR,18856000,Filed
+,Asuransi Jiwa Sinarmas Msig PT,Jakarta,2019-03-20,-,-,IDR,-,Filed
+,Suoxinda Hldg Ltd,HKSE,2019-03-20,-,-,HKD,-,Filed
+,Confidence Intelligence Hldg,HKSE,2019-03-20,-,-,HKD,-,Filed
+,Asuransi Jiwa Sinarmas Msig PT,Jakarta,2019-03-20,-,-,IDR,393750000,Amended
+,Lendlease Group-REIT,SES,2019-03-20,-,-,USD,-,Filed
+,Rizhao Port Jurong Co Ltd,HKSE,2019-03-20,-,-,HKD,-,Amended
+,Appili Therapeutics Inc,TSXV,2019-03-20,3.19 - 3.19,-,CAD,843956,Filed
+,Cavenham Gold Corp,Canadian Sec,2019-03-20,0.19 - 0.19,-,CAD,1600000,Filed
+MOT.AX,MCP Income Opportunities Trust,ASX,2019-03-20,-,2,AUD,150000000,Amended
+,Hanwha Sbi SPAC,KOSDAQ,2019-03-21,1.77 - 1.77,-,KRW,750000,Priced
+,Cansortium Inc,Canadian Sec,2019-03-21,2.00 - 2.30,2,USD,1552899,Priced
+,Cansortium Inc,Canadian Sec,2019-03-21,2.00 - 2.30,2,USD,26000000,Priced
+,Yuanta SPAC 4,KOSDAQ,2019-03-21,1.79 - 1.79,-,KRW,820000,Priced
+LEVI,LEVI STRAUSS & CO,NYSE,2019-03-21,14.00 - 16.00,-,USD,-,Expected
+7200.SR,Al Moammar Info Sys Co CSJS,Saudi,2019-03-21,-,45,SAR,480000,Priced
+6819.HK,IntelliCentrics Global Hldg,HKSE,2019-03-21,-,-,HKD,-,Expected
+NIKL.V,Gk Resources Ltd,TSXV,2019-03-21,0.11 - 0.11,0.15,CAD,3000000,Priced
+,Al Moammar Info Sys Co CSJS,Saudi,2019-03-21,-,-,SAR,480000,Filed
+,Hunan Yussen Energy Tech Co,Shenzhen,2019-03-21,-,-,CNY,28350000,Filed
+,Hanwha Sbi SPAC,KOSDAQ,2019-03-21,1.77 - 1.77,-,KRW,750000,Filed
+,Hao Cheng Holding Ltd,HKSE,2019-03-21,-,-,HKD,-,Filed
+,V-Zug AG,Swiss,2019-03-21,-,-,CHF,-,Filed
+,Lion Mentari Airlines PT,Jakarta,2019-03-21,-,-,USD,-,Amended
+,Lion Mentari Airlines PT,Jakarta,2019-03-21,-,-,IDR,-,Filed
+,Cansortium Inc,Canadian Sec,2019-03-22,2.00 - 2.30,2,USD,1552899,Priced
+ALIT,ALIGHT INC. / DE,NasdaqGS,2019-03-22,22.00 - 25.00,-,USD,-,Expected
+,ezCaretech,KOSDAQ,2019-03-22,8.98 - 10.93,-,KRW,410000,Priced
+MNTN.L,The Schiehallion Fund Ltd,LSE,2019-03-22,1.00 - 1.00,-,USD,250000000,Expected
+,Cansortium Inc,Canadian Sec,2019-03-22,2.00 - 2.30,2,USD,26000000,Priced
+DXRX.L,Diaceutics PLC,LSE,2019-03-22,-,0.76,GBP,22368427,Priced
+,Interloop Ltd,Karachi,2019-03-22,-,-,PKR,-,Expected
+,Sun Car Ins Agcy Co. Ltd,HKSE,2019-03-22,-,-,HKD,-,Expected
+,Sun Car Ins Agcy Co. Ltd,HKSE,2019-03-22,-,-,HKD,-,Expected
+,Roopshri Resorts Ltd,BSE,2019-03-22,0.28 - 0.28,-,INR,96000,Expected
+,Sun Car Ins Agcy Co. Ltd,HKSE,2019-03-22,-,-,HKD,-,Expected
+,Roopshri Resorts Ltd,BSE,2019-03-22,0.28 - 0.28,-,INR,1704000,Expected
+,Nutsay A/S,SAT,2019-03-22,1.09 - 1.09,7.2,DKK,2962777,Priced
+6185.HK,Cansino Biologics Inc,HKSE,2019-03-22,-,-,HKD,-,Amended
+6185.HK,Cansino Biologics Inc,HKSE,2019-03-22,-,-,HKD,-,Amended
+6185.HK,Cansino Biologics Inc,HKSE,2019-03-22,-,-,HKD,-,Amended
+,LOOB Holding Sdn Bhd,Kuala Lumpur,2019-03-22,-,-,USD,-,Amended
+688007.SS,Appotronics Corp Ltd,Shanghai,2019-03-22,-,17.5,CNY,11560000,Amended
+,Shanghai Zhonggu Logistics Co,Shanghai,2019-03-22,-,-,CNY,81900000,Amended
+688007.SS,Appotronics Corp Ltd,Shanghai,2019-03-22,-,17.5,CNY,10200000,Amended
+,Lever Style Corp,HKSE,2019-03-22,-,-,HKD,-,Filed
+6185.HK,Cansino Biologics Inc,HKSE,2019-03-23,-,22,HKD,18296400,Priced
+6185.HK,Cansino Biologics Inc,HKSE,2019-03-23,-,22,HKD,22899600,Priced
+6185.HK,Cansino Biologics Inc,HKSE,2019-03-23,-,22,HKD,16052600,Priced
+6185.HK,Cansino Biologics Inc,HKSE,2019-03-23,-,-,HKD,-,Amended
+6185.HK,Cansino Biologics Inc,HKSE,2019-03-23,-,-,HKD,-,Amended
+6185.HK,Cansino Biologics Inc,HKSE,2019-03-23,-,-,HKD,-,Amended
+,Ningbo Changhong Polymer,Shanghai,2019-03-23,-,-,CNY,46000000,Filed
+,Archer Capital Pty Ltd,ASX,2019-03-24,-,-,AUD,-,Filed
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+,,undefined,undefined,undefined,undefined,undefined,undefined,undefined
